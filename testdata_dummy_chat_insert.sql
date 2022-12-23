@@ -23,4 +23,4 @@ BEGIN
 end;
 
 -- CALL PROCEDURE
-CALL td_chat(10000);
+CALL td_chat(100);
