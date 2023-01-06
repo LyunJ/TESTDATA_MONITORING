@@ -1,0 +1,1 @@
+ALTER TABLE user_profile MODIFY nick VARCHAR(12) NOT NULL;

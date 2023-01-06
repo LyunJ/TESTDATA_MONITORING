@@ -23,4 +23,6 @@ BEGIN
 end;
 
 -- CALL PROCEDURE
-CALL td_chat(100);
+CALL td_chat(1000);
+
+SELECT COUNT(*) FROM chat;
